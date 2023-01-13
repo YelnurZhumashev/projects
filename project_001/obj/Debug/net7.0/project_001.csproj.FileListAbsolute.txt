@@ -1,0 +1,15 @@
+/home/yelnur/Desktop/Projects/project_001/bin/Debug/net7.0/project_001
+/home/yelnur/Desktop/Projects/project_001/bin/Debug/net7.0/project_001.deps.json
+/home/yelnur/Desktop/Projects/project_001/bin/Debug/net7.0/project_001.runtimeconfig.json
+/home/yelnur/Desktop/Projects/project_001/bin/Debug/net7.0/project_001.dll
+/home/yelnur/Desktop/Projects/project_001/bin/Debug/net7.0/project_001.pdb
+/home/yelnur/Desktop/Projects/project_001/obj/Debug/net7.0/project_001.csproj.AssemblyReference.cache
+/home/yelnur/Desktop/Projects/project_001/obj/Debug/net7.0/project_001.GeneratedMSBuildEditorConfig.editorconfig
+/home/yelnur/Desktop/Projects/project_001/obj/Debug/net7.0/project_001.AssemblyInfoInputs.cache
+/home/yelnur/Desktop/Projects/project_001/obj/Debug/net7.0/project_001.AssemblyInfo.cs
+/home/yelnur/Desktop/Projects/project_001/obj/Debug/net7.0/project_001.csproj.CoreCompileInputs.cache
+/home/yelnur/Desktop/Projects/project_001/obj/Debug/net7.0/project_001.dll
+/home/yelnur/Desktop/Projects/project_001/obj/Debug/net7.0/refint/project_001.dll
+/home/yelnur/Desktop/Projects/project_001/obj/Debug/net7.0/project_001.pdb
+/home/yelnur/Desktop/Projects/project_001/obj/Debug/net7.0/project_001.genruntimeconfig.cache
+/home/yelnur/Desktop/Projects/project_001/obj/Debug/net7.0/ref/project_001.dll
